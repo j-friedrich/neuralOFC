@@ -1,6 +1,6 @@
 # Neural Optimal Feedback Control
 
-This repository is the official implementation of [Neural optimal feedback control with local learning rules](https://papers.nips.cc/paper/2020/hash/4ef2f8259495563cb3a8ea4449ec4f9f-Abstract.html), which has been published as part of Advances in Neural Information Processing Systems 35 (NeurIPS 2021).
+This repository is the official implementation of [Neural optimal feedback control with local learning rules](https://papers.nips.cc/paper/2021/hash/88591b4d3219675bdeb33584b755f680-Abstract.html), which has been published as part of Advances in Neural Information Processing Systems 35 (NeurIPS 2021).
 
 ![Image of Bio-OFC circuit and learning rules](https://github.com/j-friedrich/neuralOFC/blob/master/fig/fig1_circuit_and_learning_rules.png)
 
